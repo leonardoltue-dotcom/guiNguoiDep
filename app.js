@@ -4,19 +4,17 @@ const CONFIG = {
   fromName: "Tuệ",
   songLabel: "🎵 Nhạc: Em sẽ Rạng Ngời",
   text: `Mới đây sang ngày mai thôi tụi mình sẽ thi đgnl đợt hai rồi nè Cham.
-Tuệ chúc Người đẹp làm bài thật là tốt với tâm thế thật bình tĩnh vững vàng nhé.
+Tuệ chúc Người đẹp làm bài thật là tốt với tâm thế thật tự tin, bình tĩnh và vững vàng nhé.
 
-Tối nay tầm tý nữa Cham xem kỹ mình đã chuẩn bị CCCD, GIẤY BÁO DỰ THI, ĐỒNG HỒ, BÚT CHÌ, TẨY, CHAI NƯỚC,... chưa nhé,
-nhớ xem kỹ càng các mốc thời gian thi đồ nè để chuẩn bị thật tốt.
+Tối nay tầm tý nữa nè Cham nhớ xem kỹ mình đã chuẩn bị CCCD, GIẤY BÁO DỰ THI, ĐỒNG HỒ, BÚT CHÌ, TẨY, ĐỒ GỌT, THƯỚC, CHAI NƯỚC,... chưa nha.
+Nhớ xem kỹ càng các mốc thời gian thi đồ nè để chuẩn bị cho thật tốt.
 
-Những mẹo làm bài Tuệ chỉ ở lúc trc bên mess r nè Cham xem lại nhớ:
-nhớ câu dễ làm trước câu khó làm sau !!!
-Đọc kỹ đề, làm câu nào tô câu đó, có chiến thuật làm bài rõ ràng chia thời gian cụ thể nhớ.
-
+Với những mẹo làm bài Tuệ chỉ ở lúc trước bên mess rồi nè Cham xem lại nhen:
+Đặc biệt nhớ câu dễ làm trước câu khó làm sau !!!
+Đọc kỹ đề, làm câu nào tô câu đó, có chiến thuật làm bài rõ ràng chia thời gian cụ thể.
 Tối nay ngủ sớm để mai có sức thi tốt nè, bung hết 100% công lực lun.
-Nên thắp ông bà nén hương nhớ.
-
-Cố lên nhen !!!`
+Được thì thắp ông bà nén hương cầu may nè !
+Cùng cố lên nhen, tin vào bản thân mình nè !!!`
 };
 // ================================
 
