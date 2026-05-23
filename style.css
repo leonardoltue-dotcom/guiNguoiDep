@@ -27,7 +27,7 @@ body{
   background-image: url("bg.jpg");
   background-size: cover;
   background-position: center;
-  opacity:.22;              /* chỉnh độ mờ nền */
+  opacity:.38;              /* chỉnh độ mờ nền */
   filter: blur(1px) saturate(1.1);
   transform: scale(1.02);
   pointer-events:none;
@@ -59,6 +59,9 @@ body{
 }
 
 .card{
+  box-shadow:
+  0 0 40px rgba(255,79,216,.18),
+  0 18px 60px rgba(0,0,0,.55);
   width:min(780px, 92vw);
   background: linear-gradient(180deg, rgba(255,255,255,.07), rgba(255,255,255,.03));
   border: 1px solid rgba(255,255,255,.12);
@@ -112,8 +115,11 @@ body{
   margin-top: 14px;
   padding: 18px 16px;
   border-radius: 18px;
-  background: rgba(10,12,24,.78);
-  border: 1px solid rgba(255,255,255,.10);
+
+  background: rgba(10,12,24,.45); /* giảm đậm */
+  backdrop-filter: blur(10px);
+
+  border: 1px solid rgba(255,255,255,.12);
   min-height: 220px;
   position:relative;
 }
