@@ -22,10 +22,12 @@ body{
     linear-gradient(160deg, var(--bg1), var(--bg2));
   overflow:hidden;
 }
-
 .bg{
   position:fixed; inset:0;
-  opacity:.16;
+  background-image: url("bg.ipg");
+  background-size: cover;
+  background-position: center;
+  opacity:.22;              /* chỉnh độ mờ nền */
   filter: blur(1px) saturate(1.1);
   transform: scale(1.02);
   pointer-events:none;
