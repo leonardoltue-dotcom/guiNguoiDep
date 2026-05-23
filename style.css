@@ -24,7 +24,7 @@ body{
 }
 .bg{
   position:fixed; inset:0;
-  background-image: url("bg.ipg");
+  background-image: url("bg.jpg");
   background-size: cover;
   background-position: center;
   opacity:.22;              /* chỉnh độ mờ nền */
