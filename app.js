@@ -1,19 +1,22 @@
 // ====== CHỈNH NỘI DUNG Ở ĐÂY ======
 const CONFIG = {
-  toName: "cậu",
-  fromName: "mình",
-  songLabel: "🎵 Nhạc: music.mp3",
-  text: [
-    "Hé lôoo ✨",
-    "",
-    "Mình viết bức thư nhỏ này để nói rằng:",
-    "Cậu quan trọng hơn cậu nghĩ nhiều đó.",
-    "",
-    "Nếu hôm nay mệt, cho phép bản thân nghỉ một chút nha.",
-    "Mai mình lại cố tiếp, nhưng nhẹ nhàng hơn.",
-    "",
-    "Cảm ơn vì đã xuất hiện 💖"
-  ].join("\n")
+  toName: "Cham",
+  fromName: "Tuệ",
+  songLabel: "🎵 Nhạc: Em sẽ Rạng Ngời",
+  text: `Mới đây sang ngày mai thôi tụi mình sẽ thi đgnl đợt hai rồi nè Cham.
+Tuệ chúc Người đẹp làm bài thật là tốt với tâm thế thật bình tĩnh vững vàng nhé.
+
+Tối nay tầm tý nữa Cham xem kỹ mình đã chuẩn bị CCCD, GIẤY BÁO DỰ THI, ĐỒNG HỒ, BÚT CHÌ, TẨY, CHAI NƯỚC,... chưa nhé,
+nhớ xem kỹ càng các mốc thời gian thi đồ nè để chuẩn bị thật tốt.
+
+Những mẹo làm bài Tuệ chỉ ở lúc trc bên mess r nè Cham xem lại nhớ:
+nhớ câu dễ làm trước câu khó làm sau !!!
+Đọc kỹ đề, làm câu nào tô câu đó, có chiến thuật làm bài rõ ràng chia thời gian cụ thể nhớ.
+
+Tối nay ngủ sớm để mai có sức thi tốt nè, bung hết 100% công lực lun.
+Nên thắp ông bà nén hương nhớ.
+
+Cố lên nhen !!!`
 };
 // ================================
 
