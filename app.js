@@ -4,65 +4,10 @@ const CONFIG = {
   fromName: "Tuệ",
   songLabel: "🎵 Nhạc: Sinh Trưởng Ngoài Thời Gian",
   text: ` Tuệ Có đọc được cái này hay lắm chia sẻ Cham nèeee:
-  4 NGÀY CUỐI CÙNG VÀ 24 ĐIỀU 2K8 BẮT BUỘC PHẢI LÀM TRƯỚC KỲ THI TN THPT 2026  
+  4 NGÀY CUỐI CÙNG và ĐIỀU 2K8 BẮT BUỘC PHẢI LÀM TRƯỚC KỲ THI TN THPT 2026  
 Nhiều bạn nghĩ 5 ngày cuối phải cày điên cuồng mới tăng điểm. Thực tế, giai đoạn này giống như những phút cuối của một trận bóng: người thắng thường không phải người chạy nhiều nhất mà là người hạn chế sai lầm tốt nhất.
-1. Chốt tài liệu ôn tập ngay lập tức
- Không tải thêm 100 đề trên mạng.
- Không xem video "bí kíp 9+ trong 24 giờ".
- Chỉ dùng:
-- Sách giáo khoa.
-- Tài liệu giáo viên đã cho.
-- Bộ đề đã làm.
-Lý do: Những ngày cuối, việc học tài liệu mới thường gây loạn kiến thức hơn là tăng kiến thức.
-2. Viết kế hoạch 6 ngày cuối
-Đừng để kiểu:
-"Mai học Toán nha."
-Rồi hết ngày vẫn chưa học.
-Thay vào đó:
-- 7h–9h: Toán 
-- 9h30–11h: Sửa đề.
-- 14h–16h: Lí
-- 19h–21h: Hóa
-Não bộ thích sự cụ thể.
-3. Liệt kê danh sách "điểm yếu chí mạng"
-Lấy giấy ra ghi:
-Toán
-- Xác suất.
-- Tích phân.
-Lí
-- Khí lí tưởng
-- Nội năng
-Hóa
-- Phần Amin, Amino Acid và Protein 
-Sau đó tập trung cứu các phần này.
-Đừng dành 4 tiếng ôn phần mình đã biết.
-4. Làm một đề thi thật sự nghiêm túc
-- Ngồi bàn học.
-- Bấm giờ.
-- Không điện thoại.
-- Không nghe nhạc.
-Mục tiêu không phải xem được bao nhiêu điểm.
-Mục tiêu là xem:
-- Có làm kịp giờ không?
-- Sai vì thiếu kiến thức hay bất cẩn?
-5. Tạo "sổ tay lỗi ngu"
-Nghe hơi phũ nhưng cực hiệu quả.
-Ví dụ:
- Quên đổi đơn vị.
- Đọc nhầm yêu cầu.
- Bấm máy tính sai.
-Viết tất cả vào một cuốn sổ.
-Những lỗi này thường làm mất 1–2 điểm rất đáng tiếc.
-6. Học lại công thức trọng tâm
-Không cần học nâng cao nữa.
-Chỉ cần:
-- Công thức đạo hàm.
-- Nguyên hàm.
-- Xác suất.
-- Hình học Oxyz.
-- Các công thức Lý, Hóa quan trọng.
-Mỗi ngày dành 20–30 phút đọc lại.
-7. Tập trung câu dễ trước
+
+* Tập trung câu dễ trước
 Nhiều bạn mắc bệnh:
 "Tôi phải hạ boss cuối trước."
 Rồi ngồi vật lộn 20 phút với một câu khó.
@@ -70,23 +15,8 @@ Chiến thuật đúng:
 - Ăn chắc câu dễ.
 - Xử lý câu trung bình.
 - Cuối cùng mới đánh câu khó.
-8. Làm flashcard
-Một mặt:
-"Công thức tính khoảng cách từ điểm đến mặt phẳng?"
-Mặt kia:
-Đáp án.
-Flashcard cực hợp để:
-- Ôn nhanh.
-- Ôn lúc nghỉ.
-- Ôn trước khi ngủ.
-9. Kiểm tra trí nhớ chủ động
-Đừng chỉ đọc.
-Hãy:
-- Đóng sách.
-- Tự viết lại.
-Nếu viết được thì mới là nhớ thật.
-Nếu chỉ thấy quen mắt thì đó là ảo giác học tập.
-10. Bắt đầu ngủ đúng giờ
+
+* Bắt đầu ngủ đúng giờ
 6 ngày cuối phải ngủ giống ngày thi.
 Ví dụ:
 - 22h30 ngủ.
@@ -95,18 +25,18 @@ Không nên:
 - 3h sáng ngủ.
 - 11h trưa dậy.
 Não sẽ lag trong ngày thi.
-11. Tập thức dậy vào giờ thi
+* Tập thức dậy vào giờ thi
 Nếu môn đầu thi lúc 7h35:
 Hãy tập cho não hoạt động mạnh từ 7h sáng.
 Đừng để ngày thi mới bật chế độ "online".
-12. Giảm thời gian mạng xã hội
+* Giảm thời gian mạng xã hội
 TikTok 10 phút:
 TikTok 2 tiếng: 
 Những ngày cuối, thuật toán còn khiến bạn:
 - So sánh bản thân.
 - Lo lắng.
 - Hoảng điểm.
-13. Tránh nghe điểm số của người khác
+* Tránh nghe điểm số của người khác
 Có đứa:
 "Tao vừa làm đề được 29 điểm."
 Nghe xong:
@@ -114,25 +44,20 @@ Nghe xong:
 - Mất tự tin.
 Nhớ rằng:
 Điểm đề thử ≠ điểm thi thật.
-14. Thi thử lần cuối
-Khoảng 3 ngày trước thi.
-Làm như thi thật:
-- Đúng giờ.
-- Đúng thời lượng.
-Đây là buổi tổng duyệt cuối cùng.
-15. Xây dựng chiến thuật phòng thi
+
+* Xây dựng chiến thuật phòng thi
 Ví dụ:
 Toán
 - 30 câu đầu: 20 phút.
 - 15 câu giữa: 40 phút.
 - Câu khó: thời gian còn lại.
 Có chiến thuật sẽ đỡ hoảng.
-16. Luyện tô đáp án
+* Luyện tô đáp án
 Nghe buồn cười nhưng nhiều bạn mất điểm vì:
 - Lệch dòng.
 - Tô nhầm câu.
 Hãy luyện thao tác này.
-17. Ăn uống an toàn
+* Ăn uống an toàn
 Không nên:
  Trà sữa quá nhiều.
  Đồ cay.
@@ -140,13 +65,13 @@ Không nên:
  Ăn uống thất thường.
 Mục tiêu:
 Không đau bụng trước ngày thi.
-18. Giảm khối lượng học
+* Giảm khối lượng học
 2 ngày cuối:
 Không cần học 12 tiếng/ngày.
 Hãy giảm còn:
 * 4–6 tiếng chất lượng.
 Não cần thời gian sắp xếp kiến thức.
-19. Đọc lại sổ lỗi sai
+* Đọc lại sổ lỗi sai
 Đây là tài liệu giá trị nhất.
 Một lỗi tránh được = một câu điểm giữ lại.
 20. Kiểm tra giấy tờ
@@ -157,13 +82,13 @@ Checklist:
  Thước.
  Máy tính.
  Pin máy tính.
-21. Xem đường đến điểm thi
+*. Xem đường đến điểm thi
 Đi trước trên Google Maps.
 Ước lượng:
 - Thời gian.
 - Đường tắc.
 Không ai muốn sáng thi mới lạc đường.
-22. Chỉ ôn kiến thức cốt lõi vào ngày cuối
+* Chỉ ôn kiến thức cốt lõi vào ngày cuối
 Không học:
 - Chuyên đề mới.
 - Đề siêu khó.
@@ -171,13 +96,13 @@ Chỉ xem:
 - Công thức.
 - Lỗi sai.
 - Ghi chú quan trọng.
-23. Đi ngủ sớm trước ngày thi
+* Đi ngủ sớm trước ngày thi
 Nếu không ngủ được:
 - Đừng cố ép.
 - Nằm thư giãn.
 - Tránh điện thoại.
 Chỉ cần nằm nghỉ vẫn tốt hơn thức khuya học.
-24. Giữ tâm lý khi gặp câu khó
+* Giữ tâm lý khi gặp câu khó
 Khi gặp câu khó:
  "Toang rồi."
  "Mình trượt mất."
